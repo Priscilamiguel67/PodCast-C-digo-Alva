@@ -27,9 +27,3 @@ Este é um projeto de podcast criado como parte de um desafio, com o objetivo de
 
 - A ferramenta de voz utilizada pronunciou o nome "C#" de forma incorreta algumas vezes, mas no geral a qualidade ficou ótima.
 - O projeto pode crescer com novos episódios sobre outras linguagens ou temas de tecnologia.
-
----
-
-## 🚀 Contribuição
-
-Fique à vontade para sugerir temas, enviar feedbacks ou contribuir com novas ideias para o podcast!
